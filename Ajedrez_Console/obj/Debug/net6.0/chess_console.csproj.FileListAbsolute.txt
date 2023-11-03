@@ -1,0 +1,45 @@
+/home/carlos/Escritorio/2324/DWS/PRACTICAS/PRIMERAÇ/Primera practica DWS 2324/chess_console/bin/Debug/net6.0/chess_console
+/home/carlos/Escritorio/2324/DWS/PRACTICAS/PRIMERAÇ/Primera practica DWS 2324/chess_console/bin/Debug/net6.0/chess_console.deps.json
+/home/carlos/Escritorio/2324/DWS/PRACTICAS/PRIMERAÇ/Primera practica DWS 2324/chess_console/bin/Debug/net6.0/chess_console.runtimeconfig.json
+/home/carlos/Escritorio/2324/DWS/PRACTICAS/PRIMERAÇ/Primera practica DWS 2324/chess_console/bin/Debug/net6.0/chess_console.dll
+/home/carlos/Escritorio/2324/DWS/PRACTICAS/PRIMERAÇ/Primera practica DWS 2324/chess_console/bin/Debug/net6.0/ref/chess_console.dll
+/home/carlos/Escritorio/2324/DWS/PRACTICAS/PRIMERAÇ/Primera practica DWS 2324/chess_console/bin/Debug/net6.0/chess_console.pdb
+/home/carlos/Escritorio/2324/DWS/PRACTICAS/PRIMERAÇ/Primera practica DWS 2324/chess_console/obj/Debug/net6.0/chess_console.csproj.AssemblyReference.cache
+/home/carlos/Escritorio/2324/DWS/PRACTICAS/PRIMERAÇ/Primera practica DWS 2324/chess_console/obj/Debug/net6.0/chess_console.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Escritorio/2324/DWS/PRACTICAS/PRIMERAÇ/Primera practica DWS 2324/chess_console/obj/Debug/net6.0/chess_console.AssemblyInfoInputs.cache
+/home/carlos/Escritorio/2324/DWS/PRACTICAS/PRIMERAÇ/Primera practica DWS 2324/chess_console/obj/Debug/net6.0/chess_console.AssemblyInfo.cs
+/home/carlos/Escritorio/2324/DWS/PRACTICAS/PRIMERAÇ/Primera practica DWS 2324/chess_console/obj/Debug/net6.0/chess_console.csproj.CoreCompileInputs.cache
+/home/carlos/Escritorio/2324/DWS/PRACTICAS/PRIMERAÇ/Primera practica DWS 2324/chess_console/obj/Debug/net6.0/chess_console.dll
+/home/carlos/Escritorio/2324/DWS/PRACTICAS/PRIMERAÇ/Primera practica DWS 2324/chess_console/obj/Debug/net6.0/ref/chess_console.dll
+/home/carlos/Escritorio/2324/DWS/PRACTICAS/PRIMERAÇ/Primera practica DWS 2324/chess_console/obj/Debug/net6.0/chess_console.pdb
+/home/carlos/Escritorio/2324/DWS/PRACTICAS/PRIMERAÇ/Primera practica DWS 2324/chess_console/obj/Debug/net6.0/chess_console.genruntimeconfig.cache
+/home/horabaixa/Escriptori/Curso/DWS/Practica1/chess_console/bin/Debug/net6.0/chess_console
+/home/horabaixa/Escriptori/Curso/DWS/Practica1/chess_console/bin/Debug/net6.0/chess_console.deps.json
+/home/horabaixa/Escriptori/Curso/DWS/Practica1/chess_console/bin/Debug/net6.0/chess_console.runtimeconfig.json
+/home/horabaixa/Escriptori/Curso/DWS/Practica1/chess_console/bin/Debug/net6.0/chess_console.dll
+/home/horabaixa/Escriptori/Curso/DWS/Practica1/chess_console/bin/Debug/net6.0/ref/chess_console.dll
+/home/horabaixa/Escriptori/Curso/DWS/Practica1/chess_console/bin/Debug/net6.0/chess_console.pdb
+/home/horabaixa/Escriptori/Curso/DWS/Practica1/chess_console/obj/Debug/net6.0/chess_console.csproj.AssemblyReference.cache
+/home/horabaixa/Escriptori/Curso/DWS/Practica1/chess_console/obj/Debug/net6.0/chess_console.GeneratedMSBuildEditorConfig.editorconfig
+/home/horabaixa/Escriptori/Curso/DWS/Practica1/chess_console/obj/Debug/net6.0/chess_console.AssemblyInfoInputs.cache
+/home/horabaixa/Escriptori/Curso/DWS/Practica1/chess_console/obj/Debug/net6.0/chess_console.AssemblyInfo.cs
+/home/horabaixa/Escriptori/Curso/DWS/Practica1/chess_console/obj/Debug/net6.0/chess_console.csproj.CoreCompileInputs.cache
+/home/horabaixa/Escriptori/Curso/DWS/Practica1/chess_console/obj/Debug/net6.0/chess_console.dll
+/home/horabaixa/Escriptori/Curso/DWS/Practica1/chess_console/obj/Debug/net6.0/ref/chess_console.dll
+/home/horabaixa/Escriptori/Curso/DWS/Practica1/chess_console/obj/Debug/net6.0/chess_console.pdb
+/home/horabaixa/Escriptori/Curso/DWS/Practica1/chess_console/obj/Debug/net6.0/chess_console.genruntimeconfig.cache
+/var/www/html/Practica1/chess_console/obj/Debug/net6.0/chess_console.csproj.AssemblyReference.cache
+/var/www/html/Practica1/chess_console/obj/Debug/net6.0/chess_console.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/html/Practica1/chess_console/obj/Debug/net6.0/chess_console.AssemblyInfoInputs.cache
+/var/www/html/Practica1/chess_console/obj/Debug/net6.0/chess_console.AssemblyInfo.cs
+/var/www/html/Practica1/chess_console/obj/Debug/net6.0/chess_console.csproj.CoreCompileInputs.cache
+/var/www/html/Practica1/chess_console/obj/Debug/net6.0/chess_console.dll
+/var/www/html/Practica1/chess_console/obj/Debug/net6.0/ref/chess_console.dll
+/var/www/html/Practica1/chess_console/obj/Debug/net6.0/chess_console.pdb
+/var/www/html/Practica1/chess_console/bin/Debug/net6.0/chess_console
+/var/www/html/Practica1/chess_console/bin/Debug/net6.0/chess_console.deps.json
+/var/www/html/Practica1/chess_console/bin/Debug/net6.0/chess_console.runtimeconfig.json
+/var/www/html/Practica1/chess_console/bin/Debug/net6.0/chess_console.dll
+/var/www/html/Practica1/chess_console/bin/Debug/net6.0/ref/chess_console.dll
+/var/www/html/Practica1/chess_console/bin/Debug/net6.0/chess_console.pdb
+/var/www/html/Practica1/chess_console/obj/Debug/net6.0/chess_console.genruntimeconfig.cache
